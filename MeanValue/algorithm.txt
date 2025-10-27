@@ -1,12 +1,7 @@
 Algorithm for Mean Function 
 Step 1: Start the program
-Step 2: Create two classes — say ClassA and ClassB
-Step 3: In each class, declare one private data member (e.g., int a;, int b;)
-Step 4: Use a friend function named findMean() that can access both private members
-Step 5: In each class, create a function setData() to get user input
-Step 6: Define the friend function findMean() to calculate and display the mean value
-Step 7: In the main() function, create objects of both classes
-Step 8: Call the setData() functions for both objects
-Step 9: Call the findMean() function
-Step 10: Display the result
-Step 11: End the program
+Step 2: Create objects of both classes ("ClassA" and "ClassB"
+Step 3: Call the setData() functions for both objects, Get values for a and b from user
+Step 4: Call the findMean() function
+Step 5: Display the result
+Step 6: End the program
