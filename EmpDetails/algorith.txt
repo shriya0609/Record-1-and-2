@@ -1,0 +1,24 @@
+Algorithm for Employee Details
+Step 1: Start
+Step 2: Declare variables:
+  num (integer) → to store number of employees
+  For each employee, store:
+  empID (integer)
+  name (string)
+  department (string)
+  salary (float)
+Step 3: Display message — “Enter number of employees:”
+Step 4: Read num
+Step 5: Repeat steps for each employee from i = 1 to num:
+  Display message — “Enter details for employee i:”
+  Input empID
+  Input name
+  Input department
+  Input salary
+Step 6: Display message — “--- Employee Details ---”
+Step 7: Repeat steps for each employee from i = 1 to num:
+  Display empID
+  Display name
+  Display department
+  Display salary
+Step 8: Stop
